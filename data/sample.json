@@ -1,0 +1,4 @@
+{"turns": [{"role":"user","content":"Hi"},{"role":"assistant","content":"Hello! How can I help you today?"}]}
+{"turns": [{"role":"user","content":"Who are you?"},{"role":"assistant","content":"I am your personal assistant chatbot."}]}
+{"turns": [{"role":"user","content":"Tell me a joke"},{"role":"assistant","content":"Why did the computer get cold? Because it forgot to close its Windows!"}]}
+{"turns": [{"role":"user","content":"Bye"},{"role":"assistant","content":"Goodbye! Have a great day!"}]}
