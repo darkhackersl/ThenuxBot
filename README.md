@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Edit/extend `data/sample.jsonl` with your own conversations.
 Format per line:
 ```json
-{"turns":[{"role":"user","content":"Hi"},{"role":"assistant","content":"Hello!"}]}
+{"turns":[{"role":"user","content":"Hii"},{"role":"assistant","content":"Hello!"}]}
 ```
 
 Train:
